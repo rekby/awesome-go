@@ -1588,6 +1588,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [JayDiff](https://github.com/yazgazan/jaydiff) - JSON diff utility written in Go.
 * [Juju](https://jujucharms.com/) - Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.
 * [Leaps](https://github.com/jeffail/leaps) - Pair programming service using Operational Transforms.
+* [Lets-proxy](https://github.com/rekby/lets-proxy) - Reverse proxy wich automatically obtains TLS certificates from Let's Encrypt.
 * [limetext](http://limetext.org/) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 * [LiteIDE](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 * [mockingjay](https://github.com/quii/mockingjay-server) - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
